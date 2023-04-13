@@ -1,0 +1,2059 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2023-04-06T11:01:14.981Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Wooden Chair",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2023-04-06T11:02:16.781Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Single Armchair",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2023-04-06T11:02:40.246Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Wooden Armchair",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2023-04-06T11:02:58.691Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "Stylish Chair",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2023-04-06T11:03:25.505Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "Modern Chair",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2023-04-06T11:03:42.159Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "6",
+        "object_repr": "Mapple Wood Dinning Table",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2023-04-06T11:03:58.812Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "7",
+        "object_repr": "Arm Chair",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2023-04-06T11:04:13.844Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "8",
+        "object_repr": "Wooden Bed",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2023-04-06T18:13:49.622Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Wooden Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2023-04-07T09:05:51.327Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Wooden Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2023-04-07T09:06:14.606Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Wooden Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2023-04-07T09:06:21.642Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Wooden Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2023-04-07T09:13:27.295Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Wooden Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2023-04-07T09:13:40.532Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Wooden Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2023-04-07T09:32:23.784Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Wooden Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2023-04-07T09:32:32.078Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Wooden Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2023-04-07T09:37:18.898Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Wooden Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Position\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2023-04-07T09:37:18.900Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "8",
+        "object_repr": "Wooden Bed",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Position\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2023-04-07T09:37:37.507Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "8",
+        "object_repr": "Wooden Bed",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Position\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2023-04-07T09:37:37.510Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Wooden Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Position\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2023-04-07T10:15:24.491Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Wooden Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is visible\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2023-04-07T10:15:41.617Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Wooden Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is visible\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2023-04-07T10:15:41.619Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Single Armchair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is visible\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2023-04-07T10:17:08.841Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Wooden Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2023-04-07T10:17:08.845Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Single Armchair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is visible\", \"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2023-04-07T10:17:08.847Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Wooden Armchair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2023-04-07T10:17:08.848Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "Stylish Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2023-04-07T10:17:08.850Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "Modern Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2023-04-07T10:17:08.851Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "6",
+        "object_repr": "Mapple Wood Dinning Table",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2023-04-07T10:17:08.853Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "7",
+        "object_repr": "Arm Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2023-04-07T10:17:08.855Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "8",
+        "object_repr": "Wooden Bed",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2023-04-07T10:17:22.885Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "8",
+        "object_repr": "Wooden Bed",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is visible\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2023-04-07T10:17:32.318Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "7",
+        "object_repr": "Arm Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is visible\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2023-04-07T10:17:42.918Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Single Armchair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2023-04-07T10:17:50.995Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Single Armchair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is sale\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2023-04-07T10:17:50.998Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "7",
+        "object_repr": "Arm Chair",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is visible\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2023-04-07T10:17:51.000Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "8",
+        "object_repr": "Wooden Bed",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is visible\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2023-04-07T10:32:22.123Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Popular object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2023-04-07T10:33:38.509Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Popular object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2023-04-07T10:35:44.113Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Popular object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2023-04-07T13:38:52.768Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Popular object (3)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Position\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2023-04-07T13:38:52.769Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Popular object (2)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Position\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2023-04-07T13:41:47.052Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Popular object (3)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Position\", \"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2023-04-07T13:41:59.743Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Popular object (2)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Position\", \"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2023-04-07T13:59:19.403Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Popular object (3)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2023-04-07T13:59:25.176Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Popular object (2)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2023-04-07T14:00:36.858Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "4",
+        "object_repr": "Popular object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2023-04-07T14:00:59.812Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "5",
+        "object_repr": "Popular object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2023-04-07T14:07:45.065Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "5",
+        "object_repr": "Popular object (5)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2023-04-07T14:07:56.037Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "4",
+        "object_repr": "Popular object (4)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2023-04-07T14:10:57.436Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "6",
+        "object_repr": "Popular object (6)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+        "action_time": "2023-04-07T14:12:20.358Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "7",
+        "object_repr": "Popular object (7)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+        "action_time": "2023-04-07T14:58:01.796Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "Featured object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+        "action_time": "2023-04-07T14:58:18.728Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "Featured object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+        "action_time": "2023-04-07T14:58:32.220Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "3",
+        "object_repr": "Featured object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+        "action_time": "2023-04-07T14:58:54.730Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "4",
+        "object_repr": "Featured object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+        "action_time": "2023-04-07T15:45:23.088Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "1",
+        "object_repr": "Blog object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+        "action_time": "2023-04-07T15:56:35.930Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "2",
+        "object_repr": "Blog object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+        "action_time": "2023-04-07T15:56:55.321Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "3",
+        "object_repr": "Blog object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+        "action_time": "2023-04-07T16:01:26.276Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "3",
+        "object_repr": "Blog object (3)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+        "action_time": "2023-04-07T16:01:36.023Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "2",
+        "object_repr": "Blog object (2)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+        "action_time": "2023-04-07T16:26:15.317Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "1",
+        "object_repr": "Bloog object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+        "action_time": "2023-04-07T16:27:15.604Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "2",
+        "object_repr": "Bloog object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+        "action_time": "2023-04-07T16:28:00.868Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "3",
+        "object_repr": "Bloog object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+        "action_time": "2023-04-07T16:28:19.418Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "2",
+        "object_repr": "Bloog object (2)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+        "action_time": "2023-04-07T16:29:48.422Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "1",
+        "object_repr": "Bloog object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Author\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 67,
+    "fields": {
+        "action_time": "2023-04-07T16:31:01.260Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "1",
+        "object_repr": "Bloog object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Desc\", \"Author\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 68,
+    "fields": {
+        "action_time": "2023-04-07T17:25:03.688Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "1",
+        "object_repr": "Kappa",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 69,
+    "fields": {
+        "action_time": "2023-04-07T17:25:20.260Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "2",
+        "object_repr": "levis",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 70,
+    "fields": {
+        "action_time": "2023-04-07T17:25:41.732Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "3",
+        "object_repr": "h@m",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 71,
+    "fields": {
+        "action_time": "2023-04-07T17:25:57.935Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "4",
+        "object_repr": "lacoste",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 72,
+    "fields": {
+        "action_time": "2023-04-07T17:26:12.558Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "5",
+        "object_repr": "adidas",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 73,
+    "fields": {
+        "action_time": "2023-04-08T12:39:21.549Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Unlimited object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 74,
+    "fields": {
+        "action_time": "2023-04-08T12:41:37.989Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "2",
+        "object_repr": "Unlimited object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 75,
+    "fields": {
+        "action_time": "2023-04-08T14:07:52.048Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "1",
+        "object_repr": "Home object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 76,
+    "fields": {
+        "action_time": "2023-04-08T14:11:00.900Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "2",
+        "object_repr": "Home object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 77,
+    "fields": {
+        "action_time": "2023-04-08T14:13:03.359Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "3",
+        "object_repr": "Home object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add product",
+        "content_type": 7,
+        "codename": "add_product"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change product",
+        "content_type": 7,
+        "codename": "change_product"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete product",
+        "content_type": 7,
+        "codename": "delete_product"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view product",
+        "content_type": 7,
+        "codename": "view_product"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add popular",
+        "content_type": 8,
+        "codename": "add_popular"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change popular",
+        "content_type": 8,
+        "codename": "change_popular"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete popular",
+        "content_type": 8,
+        "codename": "delete_popular"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view popular",
+        "content_type": 8,
+        "codename": "view_popular"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add featured product",
+        "content_type": 9,
+        "codename": "add_featuredproduct"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change featured product",
+        "content_type": 9,
+        "codename": "change_featuredproduct"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete featured product",
+        "content_type": 9,
+        "codename": "delete_featuredproduct"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view featured product",
+        "content_type": 9,
+        "codename": "view_featuredproduct"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add featured",
+        "content_type": 10,
+        "codename": "add_featured"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change featured",
+        "content_type": 10,
+        "codename": "change_featured"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete featured",
+        "content_type": 10,
+        "codename": "delete_featured"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view featured",
+        "content_type": 10,
+        "codename": "view_featured"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+        "name": "Can add blog",
+        "content_type": 11,
+        "codename": "add_blog"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+        "name": "Can change blog",
+        "content_type": 11,
+        "codename": "change_blog"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+        "name": "Can delete blog",
+        "content_type": 11,
+        "codename": "delete_blog"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+        "name": "Can view blog",
+        "content_type": 11,
+        "codename": "view_blog"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+        "name": "Can add bloog",
+        "content_type": 12,
+        "codename": "add_bloog"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+        "name": "Can change bloog",
+        "content_type": 12,
+        "codename": "change_bloog"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+        "name": "Can delete bloog",
+        "content_type": 12,
+        "codename": "delete_bloog"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+        "name": "Can view bloog",
+        "content_type": 12,
+        "codename": "view_bloog"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+        "name": "Can add brand",
+        "content_type": 13,
+        "codename": "add_brand"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+        "name": "Can change brand",
+        "content_type": 13,
+        "codename": "change_brand"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+        "name": "Can delete brand",
+        "content_type": 13,
+        "codename": "delete_brand"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+        "name": "Can view brand",
+        "content_type": 13,
+        "codename": "view_brand"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+        "name": "Can add unlimited",
+        "content_type": 14,
+        "codename": "add_unlimited"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+        "name": "Can change unlimited",
+        "content_type": 14,
+        "codename": "change_unlimited"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+        "name": "Can delete unlimited",
+        "content_type": 14,
+        "codename": "delete_unlimited"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+        "name": "Can view unlimited",
+        "content_type": 14,
+        "codename": "view_unlimited"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+        "name": "Can add home",
+        "content_type": 15,
+        "codename": "add_home"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+        "name": "Can change home",
+        "content_type": 15,
+        "codename": "change_home"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+        "name": "Can delete home",
+        "content_type": 15,
+        "codename": "delete_home"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+        "name": "Can view home",
+        "content_type": 15,
+        "codename": "view_home"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+        "name": "Can add cart",
+        "content_type": 16,
+        "codename": "add_cart"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+        "name": "Can change cart",
+        "content_type": 16,
+        "codename": "change_cart"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+        "name": "Can delete cart",
+        "content_type": 16,
+        "codename": "delete_cart"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+        "name": "Can view cart",
+        "content_type": 16,
+        "codename": "view_cart"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$h4Zrk93E1iMz7sXXPL3WmQ$MRVq8CjPmx5eQEMP1igO8HIjjMyCQGSemAadD6Fksc8=",
+        "last_login": "2023-04-06T10:59:55.283Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "admin@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-04-06T10:58:30.009Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "main_app",
+        "model": "product"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "main_app",
+        "model": "popular"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "main_app",
+        "model": "featuredproduct"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "main_app",
+        "model": "featured"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+        "app_label": "main_app",
+        "model": "blog"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+        "app_label": "main_app",
+        "model": "bloog"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 13,
+    "fields": {
+        "app_label": "main_app",
+        "model": "brand"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 14,
+    "fields": {
+        "app_label": "main_app",
+        "model": "unlimited"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 15,
+    "fields": {
+        "app_label": "main_app",
+        "model": "home"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 16,
+    "fields": {
+        "app_label": "main_app",
+        "model": "cart"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "51587dha1cjqi2nuc6axw1sm8z1ui6ms",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSEzUGRw6b7fQHiMUjWQlHZl_HfbpAvd3nPOfQsf1qX4tfPspywuAsXpd4shPbnuID9CvTeZWl3mKcpdkQftcmyZX9fD_TsooZetTog5GEfZMCpwoIDPqImArFMIlEjrgXiwLhNFd0OOmDYBjDEWYhKfL6pxNlk:1pkNLP:MzHq0wAdiIK6cd2JL3VxvV3QzTKkwt36rEdH1tI8nyc",
+        "expire_date": "2023-04-20T10:59:55.300Z"
+    }
+},
+{
+    "model": "main_app.product",
+    "pk": 1,
+    "fields": {
+        "title": "Wooden Chair",
+        "position": 1,
+        "is_visible": true,
+        "is_sale": true,
+        "price": "65.00",
+        "discount": 0,
+        "photo": "Product/arrivals1.png"
+    }
+},
+{
+    "model": "main_app.product",
+    "pk": 2,
+    "fields": {
+        "title": "Single Armchair",
+        "position": 2,
+        "is_visible": true,
+        "is_sale": true,
+        "price": "80.00",
+        "discount": 0,
+        "photo": "Product/arrivals2.png"
+    }
+},
+{
+    "model": "main_app.product",
+    "pk": 3,
+    "fields": {
+        "title": "Wooden Armchair",
+        "position": 3,
+        "is_visible": true,
+        "is_sale": true,
+        "price": "40.00",
+        "discount": 0,
+        "photo": "Product/arrivals3.png"
+    }
+},
+{
+    "model": "main_app.product",
+    "pk": 4,
+    "fields": {
+        "title": "Stylish Chair",
+        "position": 4,
+        "is_visible": true,
+        "is_sale": true,
+        "price": "100.00",
+        "discount": 0,
+        "photo": "Product/arrivals4.png"
+    }
+},
+{
+    "model": "main_app.product",
+    "pk": 5,
+    "fields": {
+        "title": "Modern Chair",
+        "position": 5,
+        "is_visible": true,
+        "is_sale": true,
+        "price": "120.00",
+        "discount": 0,
+        "photo": "Product/arrivals5.png"
+    }
+},
+{
+    "model": "main_app.product",
+    "pk": 6,
+    "fields": {
+        "title": "Mapple Wood Dinning Table",
+        "position": 6,
+        "is_visible": true,
+        "is_sale": true,
+        "price": "140.00",
+        "discount": 0,
+        "photo": "Product/arrivals6.png"
+    }
+},
+{
+    "model": "main_app.product",
+    "pk": 7,
+    "fields": {
+        "title": "Arm Chair",
+        "position": 7,
+        "is_visible": true,
+        "is_sale": true,
+        "price": "90.00",
+        "discount": 0,
+        "photo": "Product/arrivals7.png"
+    }
+},
+{
+    "model": "main_app.product",
+    "pk": 8,
+    "fields": {
+        "title": "Wooden Bed",
+        "position": 8,
+        "is_visible": true,
+        "is_sale": true,
+        "price": "140.00",
+        "discount": 0,
+        "photo": "Product/arrivals8.png"
+    }
+},
+{
+    "model": "main_app.popular",
+    "pk": 1,
+    "fields": {
+        "title": "Arm Chair",
+        "position": 1,
+        "is_visible": true,
+        "price": "0.00",
+        "desc": "Add a touch of vintage charm to your living room with the Kreindy Mid-century Modern Velvet Cushion Armchair from US Pride Furniture. This armchair boasts a solid wood frame with a natural finish and",
+        "photo": "media/p1.png"
+    }
+},
+{
+    "model": "main_app.popular",
+    "pk": 6,
+    "fields": {
+        "title": "Latest Designed Stool and Chair",
+        "position": 2,
+        "is_visible": true,
+        "price": "99.00",
+        "desc": "Tradition’s Boomerang lounge chair is a prime example of Danish modernism’s minimalist aesthetics",
+        "photo": "media/p2_6lFAEm9.png"
+    }
+},
+{
+    "model": "main_app.popular",
+    "pk": 7,
+    "fields": {
+        "title": "Hanging Lamp",
+        "position": 3,
+        "is_visible": true,
+        "price": "0.00",
+        "desc": "The Guggenheim Museum is considered to be the “temple of the spirit.\" Furthermore, it is the most important structure of its time",
+        "photo": "media/p3_SxCuZxd.png"
+    }
+},
+{
+    "model": "main_app.featured",
+    "pk": 1,
+    "fields": {
+        "title": "Designed Sofa",
+        "position": 1,
+        "is_visible": true,
+        "price": "160.00",
+        "photo": "media/f1_HNlU9PE.jpg"
+    }
+},
+{
+    "model": "main_app.featured",
+    "pk": 2,
+    "fields": {
+        "title": "Dinning Table",
+        "position": 2,
+        "is_visible": true,
+        "price": "200.00",
+        "photo": "media/f2.jpg"
+    }
+},
+{
+    "model": "main_app.featured",
+    "pk": 3,
+    "fields": {
+        "title": "Chair And Table",
+        "position": 3,
+        "is_visible": true,
+        "price": "100.00",
+        "photo": "media/f3.jpg"
+    }
+},
+{
+    "model": "main_app.featured",
+    "pk": 4,
+    "fields": {
+        "title": "Modern Arm Chair",
+        "position": 4,
+        "is_visible": true,
+        "price": "299.00",
+        "photo": "media/f4.jpg"
+    }
+},
+{
+    "model": "main_app.bloog",
+    "pk": 1,
+    "fields": {
+        "title": "Why Brands are Looking at Local Language",
+        "position": 1,
+        "is_visible": true,
+        "desc": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove",
+        "author": "By Robert Norby",
+        "date": "2020-04-02",
+        "photo": "media/b1_S0qtm8f.jpg"
+    }
+},
+{
+    "model": "main_app.bloog",
+    "pk": 2,
+    "fields": {
+        "title": "Save money",
+        "position": 2,
+        "is_visible": true,
+        "desc": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove",
+        "author": "By Robert Norby",
+        "date": "2023-04-05",
+        "photo": "media/b2_SB697LC.jpg"
+    }
+},
+{
+    "model": "main_app.bloog",
+    "pk": 3,
+    "fields": {
+        "title": "Free Delivery",
+        "position": 3,
+        "is_visible": true,
+        "desc": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove",
+        "author": "By Robert Norby /",
+        "date": "2023-02-02",
+        "photo": "media/b3_SieckvF.jpg"
+    }
+},
+{
+    "model": "main_app.brand",
+    "pk": 1,
+    "fields": {
+        "title": "Kappa",
+        "image": "media/c5.png"
+    }
+},
+{
+    "model": "main_app.brand",
+    "pk": 2,
+    "fields": {
+        "title": "levis",
+        "image": "media/c1.png"
+    }
+},
+{
+    "model": "main_app.brand",
+    "pk": 3,
+    "fields": {
+        "title": "h@m",
+        "image": "media/c2.png"
+    }
+},
+{
+    "model": "main_app.brand",
+    "pk": 4,
+    "fields": {
+        "title": "lacoste",
+        "image": "media/c3.png"
+    }
+},
+{
+    "model": "main_app.brand",
+    "pk": 5,
+    "fields": {
+        "title": "adidas",
+        "image": "media/c4.png"
+    }
+},
+{
+    "model": "main_app.unlimited",
+    "pk": 1,
+    "fields": {
+        "title": "Unlimited Dinning Table Collection",
+        "position": 1,
+        "is_visible": true,
+        "desc": "The Axiom dining table uses angular shapes and light, silky finishes to create a distinct style. The tabletop features a fancy face pyramid pattern in Linear White finish. Completing the clean, contem",
+        "price": "299.00",
+        "image": "media/table-banner.jpg"
+    }
+},
+{
+    "model": "main_app.unlimited",
+    "pk": 2,
+    "fields": {
+        "title": "Unlimited Sofa Collection",
+        "position": 2,
+        "is_visible": true,
+        "desc": "Sofa sets are a vital element in the living room of any home. Nothing else can complete it except a sofa set that makes its atmosphere and every moment spent there so precious and relaxing. Sofa sets",
+        "price": "199.00",
+        "image": "media/sofa-collection-banner.jpg"
+    }
+},
+{
+    "model": "main_app.home",
+    "pk": 1,
+    "fields": {
+        "title": "Great Design Collection",
+        "subtopic": "Cloth Covered Accent Chair",
+        "position": 1,
+        "is_visible": true,
+        "desc": "With clean lines and tapered legs, this accent chair features a prominent contemporary style. With a minimalistic and comfortable design, this chair will blend seamlessly with your decor while providi",
+        "price": "399.00",
+        "image": "media/slider1.png"
+    }
+},
+{
+    "model": "main_app.home",
+    "pk": 2,
+    "fields": {
+        "title": "Greate Design Collection",
+        "subtopic": "Mapple Wood Accent Chair",
+        "position": 2,
+        "is_visible": true,
+        "desc": "Our accent chair is generously upholstered, giving any room a refined appearance. This provides a smooth, immaculate texture for this piece as well as plush seating.",
+        "price": "199.00",
+        "image": "media/slider2.png"
+    }
+},
+{
+    "model": "main_app.home",
+    "pk": 3,
+    "fields": {
+        "title": "Greatest Design Collection",
+        "subtopic": "Valvet Accent Arm Chair",
+        "position": 3,
+        "is_visible": true,
+        "desc": "This armchair will make a statement in any room in which it resides. With its tufted diamond design, it offers a refreshing air of sophistication to your home. Set it in your living room, office, bedr",
+        "price": "399.00",
+        "image": "media/slider3.png"
+    }
+}
+]

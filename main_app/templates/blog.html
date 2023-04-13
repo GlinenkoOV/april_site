@@ -1,0 +1,31 @@
+<section id="blog" class="blog">
+			<div class="container">
+				<div class="section-header">
+					<h2>latest blog</h2>
+				</div><!--/.section-header-->
+				<div class="blog-content">
+					<div class="row">
+                        {% for item in blogs %}
+                            <div class="col-sm-4">
+							<div class="single-blog">
+								<div class="single-blog-img">
+									<img src={{ item.photo.url }} alt="blog image">
+									<div class="single-blog-img-overlay"></div>
+								</div>
+								<div class="single-blog-txt">
+									<h2><a href="#">{{ item.title }}</a></h2>
+									<h3>By <a href="#">{{ item.author }}</a> / {{ item.date}}</h3>
+									<p>
+                                        {{ item.desc}}
+									</p>
+								</div>
+							</div>
+
+						</div>
+                        {% endfor %}
+
+					</div>
+				</div>
+			</div><!--/.container-->
+
+		</section><!--/.blog-->

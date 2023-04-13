@@ -1,0 +1,15 @@
+<section id="clients"  class="clients">
+			<div class="container">
+				<div class="owl-carousel owl-theme" id="client">
+                    {% for item in brands %}
+						<div class="item">
+							<a href="#">
+								<img src={{ item.image.url }} alt="brand-image" />
+							</a>
+						</div><!--/.item-->
+                    {% endfor %}
+					</div><!--/.owl-carousel-->
+
+			</div><!--/.container-->
+
+		</section><!--/.clients-->

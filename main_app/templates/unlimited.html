@@ -1,0 +1,25 @@
+<section id="sofa-collection">
+			<div class="owl-carousel owl-theme" id="collection-carousel">
+              {% for item in unlimiteds %}
+                  <div class="sofa-collection collectionbg1">
+					<div class="container">
+						<div class="sofa-collection-txt">
+							<h2>{{ item.title }}</h2>
+							<p>
+                                {{ item.desc }}
+							</p>
+							<div class="sofa-collection-price">
+								<h4>starting from <span>${{ item.price }}</span></h4>
+							</div>
+							<button class="btn-cart welcome-add-cart sofa-collection-btn" onclick="window.location.href='#'">
+								view more
+							</button>
+						</div>
+					</div>
+				</div><!--/.sofa-collection-->
+              {% endfor %}
+
+
+			</div><!--/.collection-carousel-->
+
+		</section><!--/.sofa-collection-->

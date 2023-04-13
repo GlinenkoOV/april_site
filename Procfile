@@ -1,0 +1,1 @@
+web: gunicorn travel.eCommerce_project.wsgi --log-file -
